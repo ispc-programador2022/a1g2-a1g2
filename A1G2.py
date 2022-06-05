@@ -3,9 +3,9 @@
 #Importamos la función ing2i
 #Importamos la función ing2s
 
-from funciones.presentacion import presentacion
-from funciones.ing2i import ing2i
-from funciones.ing2s import ing2s
+from Funciones.presentacion import presentacion
+from Funciones.ing2i import ing2i
+from Funciones.ing2s import ing2s
 
 presentacion()
 
