@@ -18,7 +18,7 @@ Situación profesional 1
 - función p1, retorna el producto de los 2 primero más el 3er parámetros, usando las funciones anteriores. 
 - función p1, retorna la suma de los 2 primero por el 3er parámetros, usando las funciones anteriores.
 - función p1, retorna la resta de los 2 primero por el 3er parámetros, usando las funciones anteriores. 
-NO USAR NUMPY 
+- NO USAR NUMPY 
 - función genrnd que retorna una lista con 50 números aleatorios. 
 - función que devuelva la suma de las combinaciones posibles de los números generados por la función genrnd tomados de a dos. 
 - función que devuelva el producto de las combinaciones posibles de los números generados por la función genrnd tomados de a dos.  
