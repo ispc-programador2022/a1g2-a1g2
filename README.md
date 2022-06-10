@@ -8,7 +8,7 @@ Situación profesional 1
 - Proyecto en equipo Construir una aplicación en Python que tendrá como nombre el del grupo, o sea, para el grupo 1 del aula 1 será A1G1.py. Esta aplicación debe llamar a funciones, cada una en su archivo .py a saber: 
 - función que muestre cartel de presentación. función ing2i, debe permitir el ingreso de 2 valores enteros 
 - función ing2s, debe permitir el ingreso de 2 valores string 
-- función suma, retorna la suma de 2 parámetros. 
+- función suma, retorna la suma de 2 parámetros.
 - función resta, retorna la resta de 2 parámetros. 
 - función producto, retorna el producto de 2 parámetros. 
 - función cociente, retorna el cociente de 2 parámetros. 
