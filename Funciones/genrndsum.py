@@ -7,4 +7,3 @@ def genrndsum():
     return suma
 
 print(genrndsum())
-    
