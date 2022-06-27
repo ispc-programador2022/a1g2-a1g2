@@ -32,7 +32,10 @@ Situación profesional 1
 - medir el tiempo de ejecución del 16 al 21 
 - medir el tiempo de ejecución del 22 al 28 
 
-- Resolver las consignas en github utilizando los recursos que propone la plataforma para utilizar la metodología ágil Scrum..
+- Resolver las consignas en github utilizando los recursos que propone la plataforma para utilizar la metodología ágil Scrum.
+
+-Participante: Eber Tomas Gonzalez
+
 
 
 
