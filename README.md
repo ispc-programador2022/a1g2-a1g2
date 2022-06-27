@@ -35,7 +35,7 @@ Situación profesional 1
 - Resolver las consignas en github utilizando los recursos que propone la plataforma para utilizar la metodología ágil Scrum.
 
 
-modificacion por otro compañero 
+
 
 
 
